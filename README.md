@@ -66,3 +66,7 @@ Task Title: **ATM Interface**
 ---
 
 ## Project Structure
+-ATMAnimated.java
+-BankAccount.java
+-ReceiptGenerator.java
+-README.md
